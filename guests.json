@@ -1,4 +1,6 @@
-[
+{
+  "guests":
+  [
   {
     "Id": 1,
     "Name": "The Lion King",
@@ -15,3 +17,4 @@
     "Phone": "2014"
   }
 ]
+}
